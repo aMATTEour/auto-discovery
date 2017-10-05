@@ -1,6 +1,6 @@
 {
   "name": "auto-discovery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Loopback DB tables auto discovery",
   "main": "index.js",
   "scripts": {
